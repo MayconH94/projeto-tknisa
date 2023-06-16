@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+
+}
+
+
+body {
+    background-color: rgb(63, 59, 63);
+}
+
+
+.header {
+    color: white;
+
+}
+
+.body input{
+    padding: 8px;
+    margin-right: 8px;
+    background-color: #ddd;
+
+}
+
+.body button{
+    padding: 8px 15px;
+    
+}
+
+.footer{
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.cpf{
+    border-radius: 10px;
+}
+
+
+#btValidar{
+    border-radius: 10px;
+}
